@@ -67,6 +67,7 @@ ol {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #fff;
 }
 .effective-buy-btn {
@@ -75,6 +76,12 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
+}
+
+.effective-buy-btn:hover,
+.effective-buy-btn:focus {
+  background-color: #404bbf;
 }
 
 button {
@@ -119,6 +126,7 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
 }
 
@@ -149,6 +157,7 @@ button {
 /* Section portfolio */
 
 .portfolio {
+  background-color: #ffffff;
 }
 
 .portfolio-title {
@@ -156,6 +165,7 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
 }
 
